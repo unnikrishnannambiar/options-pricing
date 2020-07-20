@@ -4,4 +4,4 @@ I am analysing options for the NIFTY 50 Index. Since index options in India foll
 
 I am planning to use an alternative to pandas to pickle and use options chains of Nifty 50 but since pandas has stopped support for options chain collection from Yahoo Finance, I am yet to find a solution.
 
-However, I have taken the time to code in the Greeks to analyse various price movements with respect to fundamental parameters.
+However, I have taken the time to code in the Greeks to analyse various price movements with respect to fundamental parameters which can be used.
